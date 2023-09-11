@@ -7,6 +7,7 @@ python3 testtask.py
 After that the program start running just type the:
 
 Source folder
+
 Destination folder
 
 Time in minutes between every time the program will run
