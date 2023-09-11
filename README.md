@@ -1,5 +1,5 @@
 # VeeamSoftware
-PYthon Automated Backup
+Python Automated Backup
 
 To run this program type in your terminal:
 python3 testtask.py 
