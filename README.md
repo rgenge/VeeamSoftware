@@ -15,4 +15,4 @@ Time in minutes between every time the program will run
 Log folder
 
 
-# This program um will in the interval you selected and copy every files from source to destionation folder.
+This program um will in the interval you selected and copy every files from source to destionation folder.
