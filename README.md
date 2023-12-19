@@ -7,12 +7,12 @@ python3 testtask.py
 
 After that the program start running just type the:
 
-Source folder
+Source folder (one existing folder)
 
-Destination folder
+Destination folder (one existing folder)
 
-Time in minutes between every time the program will run
+Time in minutes between every time the program will run ( positive integer number )
 
-Log folder
+Log folder ( you must create the folder or it will be printed in the program root folder)
 
 
